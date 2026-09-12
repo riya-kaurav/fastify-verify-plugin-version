@@ -1,0 +1,29 @@
+{
+  "name": "fastify-verify-plugin-version",
+  "version": "1.0.0",
+  "description": "Check whether a Fastify plugin's required version matches the running Fastify version, without registering it or catching an error.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "c8 --100 node --test",
+    "test:coverage": "c8 node --test && c8 report --reporter=html"
+  },
+  "keywords": [
+    "fastify",
+    "plugin",
+    "version",
+    "semver"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fastify-plugin": "^5.0.0",
+    "semver": "^7.6.0"
+  },
+  "devDependencies": {
+    "c8": "^10.0.0",
+    "fastify": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
