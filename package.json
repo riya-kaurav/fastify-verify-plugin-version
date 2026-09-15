@@ -19,6 +19,9 @@
     "fastify-plugin": "^5.0.0",
     "semver": "^7.6.0"
   },
+  "peerDependencies": {
+    "fastify": "5.x || 6.x"
+  },
   "devDependencies": {
     "c8": "^10.0.0",
     "fastify": "^5.0.0"
