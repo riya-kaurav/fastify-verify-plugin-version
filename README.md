@@ -36,11 +36,9 @@ adds a `verifyPlugin()` method for that.
 
 ## Install
 
-Not yet published to npm — install directly from GitHub:
-
-```sh
-npm install github:<your-username>/fastify-verify-plugin-version
-```
+​```sh
+npm install fastify-verify-plugin-version
+​```
 
 ## Usage
 
