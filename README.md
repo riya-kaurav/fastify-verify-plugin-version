@@ -39,8 +39,9 @@ adds a `verifyPlugin()` method for that.
 
 ## Install
 
-​```
+​```js
 npm install fastify-verify-plugin-version
+
 ​```
 
 
