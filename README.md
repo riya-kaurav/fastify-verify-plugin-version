@@ -39,7 +39,7 @@ adds a `verifyPlugin()` method for that.
 
 ## Install
 
-​```sh
+​```
 npm install fastify-verify-plugin-version
 ​```
 
