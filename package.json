@@ -1,6 +1,6 @@
 {
   "name": "fastify-verify-plugin-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check whether a Fastify plugin's required version matches the running Fastify version, without registering it or catching an error.",
   "main": "index.js",
   "type": "commonjs",
