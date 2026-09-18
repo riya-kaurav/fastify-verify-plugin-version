@@ -1,4 +1,6 @@
 # fastify-verify-plugin-version
+[![npm version](https://img.shields.io/npm/v/fastify-verify-plugin-version.svg)](https://www.npmjs.com/package/fastify-verify-plugin-version)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Check whether a Fastify plugin's required version matches the currently
 running Fastify version — **without** calling `fastify.register()` and
