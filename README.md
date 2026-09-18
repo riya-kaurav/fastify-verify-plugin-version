@@ -36,16 +36,11 @@ adds a `verifyPlugin()` method for that.
 - Fastify 5.x or 6.x (peer dependency — install it in your own project if you haven't already)
 - Node.js 24+
 
-
 ## Install
 
-​```js
+```sh
 npm install fastify-verify-plugin-version
-
-​```
-
-
-
+```
 ## Usage
 
 ```js
